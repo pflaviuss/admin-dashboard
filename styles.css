@@ -112,3 +112,22 @@ li{
     height:4vh;
     margin:0 20px;
 }
+.profilepic-wlcm{
+    margin:0 20px;
+}
+.right{
+    display:flex;
+    justify-content:space-between;
+    flex-direction:row;
+    align-items:center;
+    width:30%;
+    margin-right:20px;
+}
+.btn{
+    background-color: #7dd3fc;
+    width:70px;
+    height:35px;
+    color:white;
+    border:1px solid #7dd3fc;
+    border-radius:15px;
+}
