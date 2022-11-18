@@ -82,7 +82,16 @@ li{
 }
 .content{
     background-color:#d4d4d4;
+    display:grid;
+    grid-template-columns: 70% 30% ;
 }
+.cards{
+    display:grid;
+    grid-template-columns: 50% 50%;
+}
+
+
+
 .navbar, .left{
     display:flex;
     flex-direction:row;
